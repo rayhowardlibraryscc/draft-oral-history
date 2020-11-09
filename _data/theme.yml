@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: demo_001
+featured-image: pexels-pixabay-533982
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: # Default is 8em
 # optional: change position of background image, center, top, bottom
@@ -28,7 +28,7 @@ featured-locations-max: 3 # set number of top locations to display if auto gener
 #
 # Featured image on About page - if left blank, CB will use image featured on the home page
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-about-featured-image: https://cdil.lib.uidaho.edu/images/palouse_sm.jpg
+about-featured-image: pexels-jeffrey-czum-3330118.jpg
 
 ##########
 # BROWSE PAGE
@@ -99,7 +99,7 @@ navbar-background: bg-dark
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
 # Enter one of the following options below: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
-bootswatch: # leave blank or comment out for plain bootstrap
+bootswatch: cerulean # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
 base-font-size: 1.2em
