@@ -30,7 +30,7 @@ author: Ray Howard Library
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: oralhistorymetadata 
+metadata: metadatapandemictestv2
 
 ##########
 # GOOGLE SERVICES [optional!]
